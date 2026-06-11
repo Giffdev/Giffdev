@@ -1,6 +1,6 @@
 # Devin Sinha
 
-**Product Manager — Microsoft** | AI & Data Experiences
+**Product Manager — Microsoft** | AI & Data Experiences | Singer/Songwriter
 
 ---
 
@@ -21,11 +21,11 @@ Product Manager at Microsoft focused on AI agent infrastructure, data visualizat
 
 ### Personal Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Arkham Horror LCG Tracker](https://github.com/Giffdev/arkham-horror-lcg-ca) | Campaign management tool for the Arkham Horror Living Card Game — scenario tracking, investigator progression, and deck analytics | JavaScript |
-| [Unmatched Match Tracker](https://github.com/Giffdev/unmatched-match-trac) | Match history and statistical analysis for the Unmatched board game — win rates, fighter performance, and head-to-head records | JavaScript |
-| [Theme Park Wait Time Tracker](https://github.com/Giffdev/theme-park-wait-time) | Real-time and historical wait time aggregation for theme park attractions — trend analysis and day planning optimization | JavaScript |
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| [Arkham Horror LCG Tracker](https://github.com/Giffdev/arkham-horror-lcg-ca) | Campaign management tool for the Arkham Horror Living Card Game — scenario tracking, investigator progression, and deck analytics | JavaScript | [Live Demo](https://arkham-horror-lcg-ca.vercel.app/) |
+| [Unmatched Match Tracker](https://github.com/Giffdev/unmatched-match-trac) | Match history and statistical analysis for the Unmatched board game — win rates, fighter performance, and head-to-head records | JavaScript | [Live Demo](https://unmatched-tracker.vercel.app/) |
+| [Theme Park Wait Time Tracker](https://github.com/Giffdev/theme-park-wait-time) | Real-time and historical wait time aggregation for theme park attractions — trend analysis and day planning optimization | JavaScript | [Live Demo](https://theme-park-wait-times.vercel.app/) |
 
 ---
 
@@ -37,4 +37,4 @@ Product Manager at Microsoft focused on AI agent infrastructure, data visualizat
 
 ### Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-Giffdev-181717?style=flat&logo=github)](https://github.com/Giffdev)
+[![GitHub](https://img.shields.io/badge/GitHub-Giffdev-181717?style=flat&logo=github)](https://github.com/Giffdev) [![Website](https://img.shields.io/badge/Music-DevinSinha.com-blue?style=flat&logo=music)](https://www.devinsinha.com)
