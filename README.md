@@ -6,7 +6,7 @@
 
 ### Summary
 
-Product Manager at Microsoft focused on AI agent infrastructure, data visualization, and developer tooling. I build frameworks that help teams understand, deploy, and measure autonomous agent systems at scale. Strong technical foundation with hands-on experience shipping dashboards, data pipelines, and full-stack applications.
+Product Manager at Microsoft focused on AI agent infrastructure, data visualization, and executive reporting. I have experience building products with millions of monthly active users such as Windows Feedback Hub and currently focus on AI agent reporting. Strong technical foundation with hands-on experience shipping dashboards, data pipelines, and full-stack applications.
 
 ---
 
