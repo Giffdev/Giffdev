@@ -38,3 +38,4 @@ Product Manager at Microsoft with a track record of shipping consumer-scale prod
 ### Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-Giffdev-181717?style=flat&logo=github)](https://github.com/Giffdev) [![Website](https://img.shields.io/badge/Music-DevinSinha.com-blue?style=flat&logo=music)](https://www.devinsinha.com)
+
