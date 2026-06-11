@@ -31,7 +31,7 @@ Product Manager at Microsoft with a track record of shipping consumer-scale prod
 
 ### Technical Skills
 
-`JavaScript` · `HTML/CSS` · `Chart.js` · `Data Visualization` · `System Architecture` · `AI/ML Product Management` · `Dashboard Design` · `API Integration`
+`JavaScript` · `HTML/CSS` · `C` · `C++` · `C#` · `SQL` · `R` · `Data Visualization` · `System Architecture` · `AI/ML Product Management` · `Dashboard Design` · `API Integration`
 
 ---
 
