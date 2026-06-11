@@ -15,7 +15,7 @@ Product Manager at Microsoft with a track record of shipping consumer-scale prod
 | Project | Description | Type | Stack |
 |---------|-------------|------|-------|
 | [Active Agent Landscape](https://github.com/Giffdev/ai-agents-lifecycle) | Comprehensive mapping of the AI agent ecosystem — orchestration frameworks, deployment models, lifecycle patterns, and evaluation methodologies | Research & Architecture | Markdown, Diagrams |
-| Agent Metrics Dashboard | Performance and reliability dashboard for tracking agent systems at scale — throughput, latency, error rates, and usage analytics (mock data) | Dashboard | HTML, CSS, JavaScript, Chart.js |
+| [Agent Metrics Dashboard](https://github.com/Giffdev/agent-metrics-dashboard) | Performance and reliability dashboard for tracking agent systems at scale — throughput, latency, error rates, and usage analytics (mock data) | Dashboard | TypeScript, React, Tailwind, Recharts |
 
 ---
 
