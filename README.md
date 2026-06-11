@@ -1,4 +1,4 @@
-# Dev Singhania
+# Devin Sinha
 
 **Product Manager — Microsoft** | AI & Data Experiences
 
