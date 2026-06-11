@@ -1,32 +1,40 @@
-# Hi, I'm Dev 👋
+# Dev Singhania
 
-I'm a Product Manager at Microsoft building AI-powered tools, dashboards, and data experiences. I'm passionate about the intersection of product thinking and engineering — turning complex problems into intuitive solutions.
-
-Outside of work, I build hobby trackers and tools for the things I love: board games, card games, and theme parks.
-
-#### What I'm Working On
-- 🤖 AI agent lifecycle frameworks — mapping how autonomous agents are built, deployed, and monitored at scale
-- 📊 Metrics dashboards — making complex data accessible and actionable for product teams
-- 🎲 Hobby trackers — building apps to track games, collections, and experiences
-- 🎢 Theme park optimization — real-time wait time tracking and planning tools
-
-#### Professional Projects
-
-| Project | What It Does | Type | Stack |
-|---------|-------------|------|-------|
-| [AI Agents Lifecycle](https://github.com/Giffdev/ai-agents-lifecycle) | Visual landscape mapping the active agent ecosystem — frameworks, orchestration patterns, and deployment models | Research & Visualization | Markdown, Diagrams |
-| Agent Metrics Dashboard | End-to-end dashboard for tracking agent performance, reliability, and usage patterns (mock data demo) | Dashboard | HTML, CSS, JavaScript, Chart.js |
-
-#### Side Projects
-
-| Project | What It Does | Type | Stack |
-|---------|-------------|------|-------|
-| [Arkham Horror LCG Tracker](https://github.com/Giffdev/arkham-horror-lcg-ca) | Campaign and deck tracker for the Arkham Horror Living Card Game — track scenarios, investigators, and progress | Board Games 🃏 | JavaScript |
-| [Unmatched Match Tracker](https://github.com/Giffdev/unmatched-match-trac) | Log and analyze match history for Unmatched — track win rates, fighter stats, and head-to-head records | Board Games ⚔️ | JavaScript |
-| [Theme Park Wait Times](https://github.com/Giffdev/theme-park-wait-time) | Real-time wait time tracker and historical trends for theme park rides — optimize your park day | Fun! 🎢 | JavaScript |
-
-#### Connect
-- 💼 [GitHub](https://github.com/Giffdev)
+**Product Manager — Microsoft** | AI & Data Experiences
 
 ---
-*PM who builds things. Turning data into decisions and hobbies into apps.*
+
+### Summary
+
+Product Manager at Microsoft focused on AI agent infrastructure, data visualization, and developer tooling. I build frameworks that help teams understand, deploy, and measure autonomous agent systems at scale. Strong technical foundation with hands-on experience shipping dashboards, data pipelines, and full-stack applications.
+
+---
+
+### Professional Projects
+
+| Project | Description | Type | Stack |
+|---------|-------------|------|-------|
+| [Active Agent Landscape](https://github.com/Giffdev/ai-agents-lifecycle) | Comprehensive mapping of the AI agent ecosystem — orchestration frameworks, deployment models, lifecycle patterns, and evaluation methodologies | Research & Architecture | Markdown, Diagrams |
+| Agent Metrics Dashboard | Performance and reliability dashboard for tracking agent systems at scale — throughput, latency, error rates, and usage analytics (mock data) | Dashboard | HTML, CSS, JavaScript, Chart.js |
+
+---
+
+### Personal Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Arkham Horror LCG Tracker](https://github.com/Giffdev/arkham-horror-lcg-ca) | Campaign management tool for the Arkham Horror Living Card Game — scenario tracking, investigator progression, and deck analytics | JavaScript |
+| [Unmatched Match Tracker](https://github.com/Giffdev/unmatched-match-trac) | Match history and statistical analysis for the Unmatched board game — win rates, fighter performance, and head-to-head records | JavaScript |
+| [Theme Park Wait Time Tracker](https://github.com/Giffdev/theme-park-wait-time) | Real-time and historical wait time aggregation for theme park attractions — trend analysis and day planning optimization | JavaScript |
+
+---
+
+### Technical Skills
+
+`JavaScript` · `HTML/CSS` · `Chart.js` · `Data Visualization` · `System Architecture` · `AI/ML Product Management` · `Dashboard Design` · `API Integration`
+
+---
+
+### Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-Giffdev-181717?style=flat&logo=github)](https://github.com/Giffdev)
