@@ -23,6 +23,7 @@ Product Manager at Microsoft with a track record of shipping consumer-scale prod
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| [ATC Companion](https://github.com/Giffdev/atc-companion) | AI-powered assistant for air traffic controllers — real-time weather, approach plates, frequencies, traffic radar, and regulatory references from official FAA sources via natural language queries | TypeScript, Next.js, React, Tailwind | [Live App](https://atc-companion.vercel.app/) |
 | [Arkham Horror LCG Tracker](https://github.com/Giffdev/arkham-horror-lcg-ca) | Campaign management tool for the Arkham Horror Living Card Game — scenario tracking, investigator progression, and deck analytics | JavaScript | [Live Demo](https://arkham-horror-lcg-ca.vercel.app/) |
 | [Unmatched Match Tracker](https://github.com/Giffdev/unmatched-match-trac) | Match history and statistical analysis for the Unmatched board game — win rates, fighter performance, and head-to-head records | JavaScript | [Live Demo](https://unmatched-tracker.vercel.app/) |
 | [Theme Park Wait Time Tracker](https://github.com/Giffdev/theme-park-wait-time) | Real-time and historical wait time aggregation for theme park attractions — trend analysis and day planning optimization | JavaScript | [Live Demo](https://theme-park-wait-times.vercel.app/) |
@@ -31,11 +32,12 @@ Product Manager at Microsoft with a track record of shipping consumer-scale prod
 
 ### Technical Skills
 
-`JavaScript` · `HTML/CSS` · `C` · `C++` · `C#` · `SQL` · `R` · `Data Visualization` · `System Architecture` · `AI/ML Product Management` · `Dashboard Design` · `API Integration`
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `HTML/CSS` · `C` · `C++` · `C#` · `SQL` · `R` · `Data Visualization` · `System Architecture` · `AI/ML Product Management` · `Dashboard Design` · `API Integration`
 
 ---
 
 ### Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-Giffdev-181717?style=flat&logo=github)](https://github.com/Giffdev) [![Website](https://img.shields.io/badge/Music-DevinSinha.com-blue?style=flat&logo=music)](https://www.devinsinha.com)
+
 
