@@ -6,7 +6,7 @@
 
 ### Summary
 
-Product Manager at Microsoft with a track record of shipping consumer-scale products to millions of monthly active users, including Windows Feedback Hub. Currently driving executive reporting strategy for AI agent systems — building dashboards and data frameworks that surface agent performance, reliability, and adoption insights to senior leadership. Combines deep product sense with hands-on technical skills across data visualization, full-stack development, and infrastructure design.
+Senior Product Manager at Microsoft with a track record of shipping consumer-scale products to millions of monthly active users, including Windows Feedback Hub. Currently driving executive reporting strategy for AI agent systems — building dashboards and data frameworks that surface agent performance, reliability, and adoption insights to senior leadership. Combines deep product sense with hands-on technical skills across data visualization, full-stack development, and infrastructure design.
 
 ---
 
