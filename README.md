@@ -1,6 +1,6 @@
 # Devin Sinha
 
-**Product Manager — Microsoft** | AI & Data Experiences
+**Senior Product Manager — Microsoft** | AI & Data Experiences
 
 ---
 
