@@ -27,6 +27,7 @@ Senior Product Manager at Microsoft with a track record of shipping consumer-sca
 | [Arkham Horror LCG Tracker](https://github.com/Giffdev/arkham-horror-lcg-ca) | Campaign management tool for the Arkham Horror Living Card Game — scenario tracking, investigator progression, and deck analytics | JavaScript | [Live Demo](https://arkham-horror-lcg-ca.vercel.app/) |
 | [Unmatched Match Tracker](https://github.com/Giffdev/unmatched-match-trac) | Match history and statistical analysis for the Unmatched board game — win rates, fighter performance, and head-to-head records | JavaScript | [Live Demo](https://unmatched-tracker.vercel.app/) |
 | [Theme Park Wait Time Tracker](https://github.com/Giffdev/theme-park-wait-time) | Real-time and historical wait time aggregation for theme park attractions — trend analysis and day planning optimization | JavaScript | [Live Demo](https://theme-park-wait-times.vercel.app/) |
+| [Waypointer](https://github.com/Giffdev/waypointer) | Personal flight history app — import logbooks from ForeFlight/myFlightradar24, review and commit flights, browse an interactive map with searchable history and travel statistics, and opt in to a shareable public travel map | TypeScript, Next.js, React, PostgreSQL | [Live Demo](https://waypointer-app.vercel.app/) |
 
 ---
 
